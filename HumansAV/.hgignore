@@ -1,0 +1,5 @@
+syntax: glob
+.DS_Store
+data/frames
+application.macosx
+HumansAV_2.app
